@@ -15,5 +15,5 @@ Replace("Ü", "Ue");
 
 Replace("ß", "ss");
 
-
+Usage: compile e.g. in MS Visual Studio, then call the WRZreplaceUmlaute.exe from the bin folder.
 
