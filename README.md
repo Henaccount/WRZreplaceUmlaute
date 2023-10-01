@@ -1,4 +1,4 @@
-# WRZreplaceUmlaute
+# WRZreplaceUmlaute - sample code - use at own risk
 decompresses wrz files, replaces german special characters and compresses back to wrz format.
 
 Replace("ä", "ae");
